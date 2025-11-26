@@ -34,22 +34,37 @@ Before starting, Windows users should enable the option to show file extensions 
   <tbody style="font-weight: bold;">
     <tr>
       <td>1.00</td>
-      <td>7.55</td>
-      <td>Not done</td>
+      <td>5.03</td>
+      <td><router-link to="updating-to-5.05.html">Using PSFree-Lapse</router-link></td>
     </tr>
     <tr>
-      <td>8.00</td>
-      <td>8.50</td>
-      <td><router-link to="updating-to-9.00.html">Updating to 9.00</router-link></td>
+      <td>5.05</td>
+      <td>5.05</td>
+      <td><router-link to="5.05-exploit.html">Using a 5.05 Exploit Site</router-link></td>
     </tr>
     <tr>
-      <td>9.00</td>
-      <td>9.00</td>
-      <td><router-link to="installing-poobs4.html">Installing pOOBs4</router-link></td>
+      <td>5.50</td>
+      <td>6.71</td>
+      <td><router-link to="updating-to-6.72.html">Updating to 6.72</router-link> or <router-link to="updating-to-9.00.html">Updating to 9.00</router-link></td>
     </tr>
     <tr>
-      <td>9.03</td>
+      <td>6.72</td>
+      <td>6.72</td>
+      <td><router-link to="6.72-exploit.html">Using a 6.72 Exploit Site</router-link></td>
+    </tr>
+    <tr>
+      <td>7.00</td>
       <td>9.60</td>
+      <td><router-link to="using-psfree-lapse.html">Using PSFree-Lapse</router-link></td>
+    </tr>
+    <tr>
+      <td>10.00</td>
+      <td>12.52</td>
+      <td><router-link to="installing-bd-jb.html">Installing BD-JB</router-link></td>
+    </tr>
+    <tr>
+      <td>13.00</td>
+      <td>13.02</td>
       <td>--</td>
     </tr>
   </tbody>
