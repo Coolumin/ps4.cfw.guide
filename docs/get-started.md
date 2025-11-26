@@ -35,7 +35,7 @@ Before starting, Windows users should enable the option to show file extensions 
     <tr>
       <td>1.00</td>
       <td>5.03</td>
-      <td><router-link to="updating-to-5.05.html">Using PSFree-Lapse</router-link></td>
+      <td>Keep for archival purposes, or <router-link to="updating-to-5.05.html">Update to 5.05</router-link></td>
     </tr>
     <tr>
       <td>5.05</td>
