@@ -30,6 +30,7 @@ export default defineConfig({
   themeConfig: {
     search: {
       provider: 'local' 
+	},
     docFooter: {
       prev: false,
       next: false
