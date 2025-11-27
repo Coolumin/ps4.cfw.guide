@@ -21,8 +21,11 @@ We will ensure that the PS4 uses the update file we want by disabling network co
 - An exFAT or FAT32 formatted USB storage device with ~500 MB or more of free space
 - The `PS4UPDATE.PUP` file corresponding to the firmware version you are trying to update to
   - [<i class="fas fa-download"></i> PS4UPDATE.PUP](https://archive.org/download/PS4-System-Firmwares/Firmware%205.05/PS4UPDATE.PUP) (5.05)
+    - Download this if your system is on 5.03 or lower. 
   - [<i class="fas fa-download"></i> PS4UPDATE.PUP](https://archive.org/download/PS4-System-Firmwares/Firmware%206.72/PS4UPDATE.PUP) (6.72)
-  - [<i class="fas fa-download"></i> PS4UPDATE.PUP](https://archive.org/download/PS4-System-Firmwares/Firmware%209.60/PS4UPDATE.PUP) (9.60, for PSFree or BD-JB)
+    - Download this if your system is on 5.50 to 6.71.
+  - [<i class="fas fa-download"></i> PS4UPDATE.PUP](https://archive.org/download/PS4-System-Firmwares/Firmware%209.60/PS4UPDATE.PUP) (9.60)
+    - The 9.60 link is mainly if your system is currently on 7.00 to 9.51 and want a bit more support for physical game discs. You should still download 5.05 or 6.72 if your system is compatible with one of them.
 
 ## Instructions
 
@@ -66,5 +69,6 @@ Your PS4 should restart to complete the update. Once finished, you should boot b
 1. Navigate to the "Network" section and open it
 1. To use network functionality, enable "Connect to the Internet"
 
-:::tip
+::: tip
 You can now return to [Get Started](get-started) to determine the exploit method for your firmware version. 
+:::
