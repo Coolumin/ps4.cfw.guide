@@ -5,26 +5,26 @@ title: Installing GoldHEN
 
 ## What you need
 
-- A computer
-- A USB storage device
-- The v1.2 release of [NetCat GUI](/assets/files/NetCat%20GUI%20v1.2.exe)
-    - If your computer has macOS or Linux, you may need to [compile the project](https://github.com/shinnok/netcatgui) manually.
-- The latest release of [GoldHEN]([https://github.com/GoldHEN/GoldHEN/releases/latest](https://ko-fi.com/sistro/shop))
++ A computer
++ A USB storage device
++ The v1.2 release of [NetCat GUI](/assets/files/NetCat%20GUI%20v1.2.exe)
+    + If your computer has macOS or Linux, you may need to [compile the project](https://github.com/shinnok/netcatgui) manually.
++ The latest release of [GoldHEN]([https://github.com/GoldHEN/GoldHEN/releases/latest](https://ko-fi.com/sistro/shop))
 
 ## Instructions
 
-### Section I - Extracting the payload
+### Section I + Extracting the payload
 
 1. Open the GoldHEN `.7z` file in [7-Zip](https://www.7-zip.org/) or another archive extracter
 1. Select the `.bin` file 
 1. Copy the `.bin` file to your Desktop
 
-### Section II - Injecting the payload
+### Section II + Injecting the payload
 
 1. Open NetCat GUI on your computer
 1. In the first field, enter the IP address of your PS4
-    - This can be found in the Settings application under `Network` -> `View Connection Status`
-    - This should have been noted down in the previous page
+    + This can be found in the Settings application under `Network` -> `View Connection Status`
+    + This should have been noted down in the previous page
 1. Press the `...` button
 1. Select the GoldHEN `.bin` payload file you extracted to your Desktop
 1. Click "Inject Payload"
