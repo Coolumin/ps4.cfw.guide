@@ -5,7 +5,7 @@ title: Updating your System Software
 
 ## Required Reading
 
-The modern exploit methods (Mainly PSFree & BD-JB) have only been implemented to work with 7.00 to 9.60 and 9.00 to 12.52 consoles respectively, and the 5.05/6.72 exploits are not multi-firmware compatible either. 
+The modern exploit methods (Mainly PSFree & BD-JB) have only been implemented to work with 7.00 to 9.60 and 9.00 to 12.52 consoles respectively, and the 5.05/6.72 exploits have not been implemented to be multi-firmware compatible either. 
 
 As a result, older firmware versions must update manually in order to use an exploit.
 
