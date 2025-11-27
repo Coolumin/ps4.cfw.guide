@@ -36,6 +36,7 @@ Jailbreaking is free and easy on most devices.
 - Install Game Mods & Patches with [ORBISPatches](https://www.orbispatches.com).
 - Run a Linux Distribution.
 - Run Emulators & Homebrew apps.
+- Create & install decrypted backups of your own games and DLC. 
 
 ## What should I know before starting?
 
