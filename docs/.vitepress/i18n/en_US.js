@@ -42,7 +42,7 @@ const themeConfig = {
 		*/
 		[`/`]: [
 		{
-			text: Guide
+			text: Guide,
 			items: [
 				{ text: Get Started, link: `get-started` },
 				{ text: Updating your System Software, link: `updating-software` },
