@@ -39,7 +39,7 @@ Before starting, Windows users should enable the option to show file extensions 
     </tr>
     <tr>
       <td>5.05</td>
-      <td>5.05</td>
+      <td>5.07</td>
       <td><router-link to="5.05-exploit.html">Using a 5.05 Exploit Site</router-link></td>
     </tr>
     <tr>
