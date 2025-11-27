@@ -43,6 +43,7 @@ const themeConfig = {
 		[`/`]: [
 		{
 			text: Guide
+			items: [
 				{ text: Get Started, link: `get-started` },
 				{ text: Updating your System Software, link: `updating-software` },
 				{ text: Using a 5.05/5.07 Exploit Site, link: `5.05-exploit` },
@@ -50,9 +51,9 @@ const themeConfig = {
 				{ text: Using PSFree-Lapse, link: `using-psfree-lapse` },
 				{ text: Installing BD-JB, link: `installing-bd-jb` }
 				{ text: Installing GoldHEN, link: `installing-goldhen` },
-    ],
-  },
-};
+			],
+		},
+	};
 
 export default {
   lang: 'en-US',
