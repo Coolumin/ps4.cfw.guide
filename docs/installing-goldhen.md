@@ -8,15 +8,15 @@ title: Installing GoldHEN
 - A computer
 - A USB storage device
 - The v1.2 release of [NetCat GUI](/assets/files/NetCat%20GUI%20v1.2.exe)
-- The latest release of [GoldHEN](https://github.com/GoldHEN/GoldHEN/releases/latest)
+    - If your computer has macOS or Linux, you may need to [compile the project](https://github.com/shinnok/netcatgui) manually.
+- The latest release of [GoldHEN]([https://github.com/GoldHEN/GoldHEN/releases/latest](https://ko-fi.com/sistro/shop))
 
 ## Instructions
 
 ### Section I - Extracting the payload
 
 1. Open the GoldHEN `.7z` file in [7-Zip](https://www.7-zip.org/) or another archive extracter
-1. Select the `.bin` file corresponding to your firmware version
-    - `goldhen_2.0b_900.bin` is for firmware version 9.00, `goldhen_2.0b_755` is for firmware version 7.55
+1. Select the `.bin` file 
 1. Copy the `.bin` file to your Desktop
 
 ### Section II - Injecting the payload
