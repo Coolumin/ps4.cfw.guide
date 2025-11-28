@@ -21,16 +21,16 @@ Before starting, Windows users should enable the option to show file extensions 
 ### Version Table
 
 <table>
-	<colgroup>
-		<col style="width: 10%;">
-		<col style="width: 10%;">
-		<col style="width: 80%;">
-	</colgroup>
+<colgroup>
+	<col style="width: 10%;">
+	<col style="width: 10%;">
+	<col style="width: 80%;">
+</colgroup>
   <thead>
     <tr>
       <th>From</th>
       <th>To</th>
-      <th></th>
+      <th>Course of Action</th>
     </tr>
   </thead>
   <tbody style="font-weight: bold;">
