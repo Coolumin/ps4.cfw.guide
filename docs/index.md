@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-header:
+hero:
   text: PS4 Guide
   tagline: A very much incomplete PS4 modding guide, from stock to GoldHEN.
   image: 
